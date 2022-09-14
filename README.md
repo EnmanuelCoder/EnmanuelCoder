@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Hello World!👋"); I'm Enmanuel Mendoza</h1>
+<h1 align="center">console.log("Hello World! I'm Enmanuel Mendoza👋"); </h1>
 <h3 align="center">I'm a passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **React JS**
